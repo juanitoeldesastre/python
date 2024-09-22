@@ -12,9 +12,7 @@
 
 Explora cada carpeta y cada archivo `.py`. 
 
-## 💬 Contacto
-
-Si tienes alguna pregunta, ¡no dudes en escribirme! 📧  
-[satanas666@gmail.com]
-
 ¡Gracias por visitar! 😊
+
+
+
