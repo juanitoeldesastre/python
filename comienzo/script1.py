@@ -13,6 +13,10 @@ print(f"Mi vida en otra realidad alterna es con {scooby} y en mi otra vida es co
 tupla = ("piedra", "caca", "chisito")
 print(tupla)
 
+mi_tupla =('2','pinguino','3,14')
+mi_tupla = ('python',)+mi_tupla[1:3]
+print(mi_tupla)
+
 poke = input("Ingrese un pokemon para el laboratorio del Profesor Ouk :")  
 lista=["charmander","bulbasaur","squirtle"]
 lista.append(poke)
