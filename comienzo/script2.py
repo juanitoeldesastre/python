@@ -1,3 +1,28 @@
+perritos = 1
+
+while perritos <= 10:
+    print("Contador de perritos por ahora son: ", perritos)
+    perritos += 1
+
+import os
+
+directorio = 'comienzo'
+
+archivos = os.listdir(directorio)
+
+contar = len(archivos)
+
+print("Número de archivos en la carpeta:", contar)
+
+for archivo in archivos:
+    print("Contando el archivo:", archivo)
+
+lista = [1,2,3]
+
+for numero in lista: 
+    print("Contando numero: ", numero)
+
+
 pokedex = {
     'Numero' : 83,
     'Nombre' : 'Farfetch',
