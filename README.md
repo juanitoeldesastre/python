@@ -4,7 +4,7 @@
 
 ## 📁 Estructura del Repositorio
 
-- **Niveles**: Scripts y más scripts.py ✏️
+- **Niveles**: Scripts y más scripts.py 👨‍💻
 - **Proyectos**: Proyectos más completos en los que he trabajado. 📊
 - **Notas**: Documentación sobre lo que he aprendido. 📝
 
