@@ -7,7 +7,7 @@ while perritos <= 10:
     perritos += 1
 
 # ContarOS
-directorio = 'nivel1'
+directorio = 'others'
 archivos = os.listdir(directorio)
 contar = len(archivos)
 
