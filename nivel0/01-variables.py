@@ -26,4 +26,10 @@ y = {
 print(f"Los valores de las variables x e y no siguen siendo los mismos; han cambiado.")
 print(f"Nuevo valor de x: {x}")
 print(f"Nuevo valor de y: {y}")
+
+#otro ejemplo para cambiar el valor de una variable es agregar una operación en la misma variable
+pi += 1
+#a la variable pi se le suma reasigna un numero que seria la suma += 1 
+print(pi)
 print(PI)
+#imprimimos pi y mondongo
