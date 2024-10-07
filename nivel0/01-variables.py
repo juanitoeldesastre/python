@@ -33,3 +33,8 @@ pi += 1
 print(pi)
 print(PI)
 #imprimimos pi y mondongo
+
+#ejemplos de concadenación de strings
+nombre += " con"
+concadenación = nombre + " " + PI
+print(f"este curso se llama {concadenación}")
