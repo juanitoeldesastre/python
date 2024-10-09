@@ -20,7 +20,7 @@ y = {
     "suma": 0.5+0.5,
     "resta": 11-10,
     "multiplicacion": 1*1,
-    "division": 999/999
+    "division": 2/2
 }
 #los valores cambiaron por lista y diccionario, lists and dictionaries
 print(f"Los valores de las variables x e y no siguen siendo los mismos; han cambiado.")
